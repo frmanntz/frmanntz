@@ -27,10 +27,10 @@
 
 | Main Features                      | Fun & Games                     | Extra Functionalities         |
 |-----------------------------------|----------------------------------|-------------------------------|
-| 📦 Button System                  | 🎮 100+ RPG Mini Games          | 🤖 AI + AI Image Generator     |
-| 🛡️ Anti-Link & Welcome           | 🎯 Buckshot Game                | 🧮 Leveling & Role System      |
+| 📦 Button System                  | 🎮 RPG Mini Games          | 🤖 AI + AI Image Generator     |
+| 🛡️ Anti-Link & Welcome           | 🎯 Uno Game                | 🧮 Leveling & Role System      |
 | 🪧 Template Menus                 | 🎵 Spotify Downloader           | 🧩 Premium Welcome Message     |
-| 🔗 Group Auto-Join                | 🌄 Pinterest Auto Slide         | 🎁 Group Giveaway              |
+| 🔗 Group Auto-Join                | 🌄 Pinterest         | 🎁 Group Giveaway              |
 
 ---
 
