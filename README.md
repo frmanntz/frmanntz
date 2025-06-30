@@ -1,6 +1,5 @@
 <h1 align="center">Astrospace MD</h1>
 
-
 <p align="center">
   Powerful & customizable WhatsApp MD bot using <b>Baileys</b>.<br>
   Based on <a href="https://github.com/Nao-MD">Nao-MD</a> & <a href="https://github.com/Tiooxy/Tixo-md">Tixo-md</a>.
@@ -21,7 +20,7 @@
 ## ℹ️ Informasi Bot
 
 **Kontak Bot:** [Astrospace MD](https://wa.me/62857059457516)  
-**Grup Bot:** [Klik Disini](https://whatsapp.com/channel/0029VaVguZr5q08f0z5C8g1u)
+**Grup Bot:** [Klik Disini](https://whatsapp.com/channel/0029VaVguZr5q08f0z5C8g1u)  
 **Channel Bot:** [Klik Disini](https://whatsapp.com/channel/0029VaVguZr5q08f0z5C8g1u)
 
 ---
@@ -59,17 +58,3 @@
 ![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![META](https://img.shields.io/badge/META-000000?style=for-the-badge&logo=meta&logoColor=white)
 ![DOCKER](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-![astrospacev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=astrospacev&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astrospacev&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=astrospacev&theme=onestar&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
